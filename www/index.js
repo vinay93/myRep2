@@ -2,7 +2,7 @@
 
     <%
 
-    System.out.println("JAVA IS WORKING");
+    print("JAVA IS WORKING");
 
     %>
 
